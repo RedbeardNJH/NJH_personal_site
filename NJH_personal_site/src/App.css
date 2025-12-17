@@ -1,5 +1,8 @@
-main {
-  background-color: #13293D;
+
+.image_container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 /**
